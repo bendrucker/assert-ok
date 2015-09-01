@@ -1,7 +1,7 @@
 {
   "name": "assert-ok",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Assert that a value is truthy",
   "license": "MIT",
   "repository": "bendrucker/assert-ok",
