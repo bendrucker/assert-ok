@@ -1,4 +1,4 @@
-# assert-ok [![Build Status](https://travis-ci.org/bendrucker/assert-ok.svg?branch=master)](https://travis-ci.org/bendrucker/assert-ok)
+# assert-ok [![Build Status](https://travis-ci.org/bendrucker/assert-ok.svg?branch=master)](https://travis-ci.org/bendrucker/assert-ok) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/assert-ok.svg)](https://greenkeeper.io/)
 
 > Assert that a value is truthy
 
